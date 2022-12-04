@@ -1,0 +1,18 @@
+# Created at 2022-12-04T02:19:27.501
+дек. 04, 2022 2:19:27 AM org.junit.platform.launcher.core.LauncherConfigurationParameters loadClasspathResource
+
+# Created at 2022-12-04T02:19:27.503
+INFO: Loading JUnit Platform configuration parameters from classpath resource [file:/C:/Users/chart/IdeaProjects2/testMTS/target/test-classes/junit-platform.properties].
+
+# Created at 2022-12-04T02:19:35.664
+дек. 04, 2022 2:19:35 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+
+# Created at 2022-12-04T02:19:35.665
+INFO: Detected dialect: W3C
+
+# Created at 2022-12-04T02:19:46.248
+дек. 04, 2022 2:19:46 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+
+# Created at 2022-12-04T02:19:46.248
+INFO: Detected dialect: W3C
+

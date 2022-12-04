@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: tests.topUpAnyPhoneNumber.positive_scenario.MobilePhoneTopUpPagePositiveTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 22.281 s - in tests.topUpAnyPhoneNumber.positive_scenario.MobilePhoneTopUpPagePositiveTest
